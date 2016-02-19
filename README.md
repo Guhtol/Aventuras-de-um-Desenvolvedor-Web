@@ -6,7 +6,7 @@ Já faz um tempo que penso em escrever algumas dicas para quem esta começando n
 
 Quando comecei era uma bagunça não conhecia nada, com a sede de criar sistemas, tentava todo dia criar algo novo.
 
-Você não tem ideia do quanto de coisa ruim e sem sentindo eu já desenvolvi,  muitas ideias morreram na praia, algumas  pela dificuldade técnica, outras por que realmente ninguem usava (acredite nem eu usava).
+Você não tem ideia do quanto de coisa ruim e sem sentindo que eu já desenvolvi,  muitas ideias morreram na praia, algumas  pela dificuldade técnica, outras por que realmente ninguem usava (acredite nem eu usava).
 
 Senti falta  de alguém experiente para me dar dicas , me passar uma visão geral das tecnologias do mercado, qual linguagem escolher, como entrar no mercado e como ter sucesso na carreria.
 
