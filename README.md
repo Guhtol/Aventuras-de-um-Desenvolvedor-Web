@@ -14,13 +14,15 @@ Infelizmente para algumas afirmações acima não existe resposta mágica.
 
 A busca por conhecimento , tempo e tentativas  podem abrir seus olhos para a realidade que lhe cerca.
 
-Vamos parar com o bla bla e ir para  o que interessa, o que acha de entrar nesse universo dos desabravadores do conhecimento, buscando todos os dias uma maneira melhor de viver , um objetivo a seguir , um sonho a se realizar ?
+Vamos parar com o bla bla e ir para  o que interessa, o que acha de entrar nesse universo dos desbravadores do conhecimento, buscando todos os dias uma maneira melhor de viver , um objetivo a seguir , um sonho a se realizar ?
 
 Não existe uma formula mágica o sucesso quem faz é você, suas escolhas resumen quem você é hoje e será amanhã.
 
 Portanto a cada sabado , irei postar assuntos básicos do desenvolvimento web , quais tecnologias  existem para a web, como buscar conhecimento, o mercado de trabalho e mostrar que é uma maravilha ser um desenvolvedor, mas tudo tem seus altos e baixos.
 
-Aqui você não vai encontrar que linguagem x é melhor que linguagem y, mas como se adaptar ao seu meio habitate e o que é melhor para você, não tenho nível e nem conhecimento para falar de tudo, pois sou um desenvolvedor novo como você, a escolha sempre serão sua.
+Aqui você não vai encontrar que linguagem x é melhor que linguagem y, mas como se adaptar ao seu meio habitate e o que é melhor para você, não tenho nível e nem conhecimento para falar de tudo, pois sou um desenvolvedor novo como você.
+
+Lembre-se a escolha é sua.
 
 Espero que aprecie essa jornada te espero em breve.
 
