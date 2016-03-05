@@ -4,7 +4,7 @@
 Lista des artigos publicados. 
 
 - [Html Css e Javascript](Html_Css_Javascript.md)
-- [Marujo ao mar Html há vista](Marujo_ao_mar_html_a_vista.md)
+- [Marujo ao mar Html à vista](Marujo_ao_mar_html_a_vista.md)
 
 
 
