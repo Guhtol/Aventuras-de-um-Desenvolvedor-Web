@@ -1,13 +1,6 @@
 # Aventuras de um Desenvolvedor Web
 
 
-Lista des artigos publicados. 
-
-- [Html Css e Javascript](Html_Css_Javascript.md)
-- [Marujo ao mar Html à vista](Marujo_ao_mar_html_a_vista.md)
-
-
-
 Já faz um tempo que penso em escrever algumas dicas para quem esta começando no caminho do desenvolvimento web.
 
 Quando comecei era uma bagunça não conhecia nada, com a sede de criar sistemas, tentava todo dia criar algo novo.
@@ -31,6 +24,11 @@ Aqui você não vai encontrar que linguagem x é melhor que linguagem y, mas com
 Lembre-se a escolha é sua.
 
 Espero que aprecie essa jornada te espero em breve.
+
+Lista des artigos publicados. 
+
+- [Html Css e Javascript](Html_Css_Javascript.md)
+- [Marujo ao mar Html à vista](Marujo_ao_mar_html_a_vista.md)
 
 
 
