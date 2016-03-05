@@ -1,6 +1,12 @@
-# Aventuras-de-um-Desenvolvedor-Web
+# Aventuras de um Desenvolvedor Web
 
-> As aventuras de um desenvolvedor web
+
+Lista des artigos publicados. 
+
+- [Html Css e Javascript](Html_Css_Javascript.md)
+- [Marujo ao mar Html há vista](Marujo_ao_mar_html_a_vista.md)
+
+
 
 Já faz um tempo que penso em escrever algumas dicas para quem esta começando no caminho do desenvolvimento web.
 
