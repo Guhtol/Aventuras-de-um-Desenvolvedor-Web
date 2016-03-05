@@ -1,4 +1,4 @@
-# Truco_Seis_Ganhei_Tenho_Html_Css_Javascript
+# Truco Seis Ganhei Tenho Html Css Javascript
 
 
 
